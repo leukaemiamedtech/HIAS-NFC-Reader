@@ -36,7 +36,7 @@
 &nbsp;
 
 # Introduction
-The HIAS NFC Authorization System is an IoT connected NFC reader that can scan NFC implants, cards and fobs to identify users on the HIAS network. The current functionality sends the recieved UID to the HIAS iotJumpWay broker and where it is first verified that it belongs to an authorized user, stored in the database and a hash saved on the HIAS Blockchain for data integrity. The HIAS iotJumpWay service
+The HIAS NFC Authorization System is an IoT connected NFC reader that can scan NFC implants, cards and fobs to identify users on the HIAS network. The current functionality sends the received UID to the HIAS iotJumpWay broker and where it is first verified that it belongs to an authorized user, stored in the database and a hash saved on the HIAS Blockchain for data integrity. The HIAS iotJumpWay service communicates back to the device informing it whether the chip is authorized and custom code can be integrated to make the device act on this response.
 
 The project runs on a **Raspberry Pi 2b** and above.
 
