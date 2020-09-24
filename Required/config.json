@@ -1,0 +1,14 @@
+{
+    "iotJumpWay": {
+        "host": "",
+        "port": 8883,
+        "ip": "",
+        "ipinfo": "",
+        "lid": 0,
+        "zid": 0,
+        "did": 0,
+        "dn": "",
+        "un": "",
+        "pw": ""
+    }
+}
